@@ -1,0 +1,2 @@
+   text	   data	    bss	    dec	    hex	filename
+  25497	    400	  23748	  49645	   c1ed	board/compal_e86/loader.highram.elf
